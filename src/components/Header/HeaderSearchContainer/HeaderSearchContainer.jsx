@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { SearchContainer, SearchBar } from "./HeaderSearchStyle";
+import { SearchContainer, SearchBar } from "./HeaderSearchContainerStyle";
 import HeaderDropDown from "../HeaderDropDown/HeaderDropDown";
 
 export default function HeaderSearchContainer() {
