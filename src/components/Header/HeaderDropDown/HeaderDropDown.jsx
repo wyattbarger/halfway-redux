@@ -23,7 +23,7 @@ export default function HeaderDropDown() {
   };
 
   // Define an array of skills for the DropDownMenu
-  // * MAY REQUIRE IDS TO MATCH API DATA RESPONSE *
+  // * MAY REQUIRE IDS TO MATCH API DATA RESPONSE! *
   const skills = [
     {
       skillName: "Agility",
